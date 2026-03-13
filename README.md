@@ -179,6 +179,7 @@ Detailed description of the skill's purpose.
 | [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) | Secure coding skill: prevent IDOR, XSS, SSRF, SQLi, auth issues; framework- and cloud-aware |
 | [Besty0728/Unity-Skills](https://github.com/Besty0728/Unity-Skills) | **431 Unity automation skills**: REST API–driven editor control, Cinemachine, scene/asset/UI/material, batch ops; Claude/Antigravity/Gemini/Codex |
 | [coinbase/agentic-wallet-skills](https://github.com/coinbase/agentic-wallet-skills) | Crypto wallet skills: authenticate, fund, send USDC, trade on Base, x402 pay/monetize, query onchain (awal CLI) |
+| [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Security-first Solana programs: Anchor & native Rust, PDAs/CPIs/Token-2022 rules, full scaffold + test skeleton + security checklist |
 | [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) | **9 game security skills**: anti-cheat systems, DMA attacks, game engine modding, reverse engineering, Windows kernel security |
 | [gmh5225/awesome-web3-security](https://github.com/gmh5225/awesome-web3-security) | **6 Web3 security skills**: smart contract security, Solana security, MEV, wallet security, security tooling |
 | [gmh5225/awesome-ai-security](https://github.com/gmh5225/awesome-ai-security) | **5 AI security skills**: adversarial ML, LLM attacks, AI pentesting, security tooling |
