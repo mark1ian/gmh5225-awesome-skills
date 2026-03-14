@@ -177,6 +177,7 @@ Detailed description of the skill's purpose.
 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official Anthropic directory of high-quality Claude Code plugins (skills, MCP, commands) |
 | [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) | **47 expert-level skills**: frameworks, templates, code examples for leadership, engineering, product, marketing, sales, data, HR |
 | [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) | Secure coding skill: prevent IDOR, XSS, SSRF, SQLi, auth issues; framework- and cloud-aware |
+| [bnb-chain/bnbchain-skills](https://github.com/bnb-chain/bnbchain-skills) | BNB Chain MCP skill: install/use bnbchain-mcp for blocks, txs, contracts, tokens, NFTs, wallet, ERC-8004, Greenfield; Cursor/Claude |
 | [Besty0728/Unity-Skills](https://github.com/Besty0728/Unity-Skills) | **431 Unity automation skills**: REST API–driven editor control, Cinemachine, scene/asset/UI/material, batch ops; Claude/Antigravity/Gemini/Codex |
 | [coinbase/agentic-wallet-skills](https://github.com/coinbase/agentic-wallet-skills) | Crypto wallet skills: authenticate, fund, send USDC, trade on Base, x402 pay/monetize, query onchain (awal CLI) |
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Security-first Solana programs: Anchor & native Rust, PDAs/CPIs/Token-2022 rules, full scaffold + test skeleton + security checklist |
@@ -218,6 +219,7 @@ Detailed description of the skill's purpose.
 | [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | Instructions, prompts, skills and custom agents for GitHub Copilot |
 | [vivy-yi/xiaohongshu-skills](https://github.com/vivy-yi/xiaohongshu-skills) | **139 Xiaohongshu (Little Red Book) skills**: content, account ops, analytics, e-commerce, platform rules, tools, marketing, growth |
 | [Uniswap/uniswap-ai](https://github.com/Uniswap/uniswap-ai) | AI tools for building on Uniswap: skills, plugins, and agents for any coding agent |
+| [gate/gate-skills](https://github.com/gate/gate-skills) | **Gate Skills**: open skills marketplace for AI agents — Gate crypto ecosystem: market analysis, derivatives, spot/futures/DEX trading, wallet, news, risk check; one-click MCP installers for Cursor, OpenClaw, Claude Code, Codex |
 
 ### Document Processing
 
