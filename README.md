@@ -368,6 +368,7 @@ Detailed description of the skill's purpose.
 | [browser-automation](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/browser-automation) | Browser automation with Playwright and Puppeteer |
 | [agent-memory-systems](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/agent-memory-systems) | Memory architecture for AI agents |
 | [autonomous-agents](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/autonomous-agents) | AI systems with ReAct and reflection patterns |
+| [harrymunro/nelson](https://github.com/harrymunro/nelson) | Claude Code multi-agent coordination skill: six-step mission framework (sailing orders → stand down), risk-tiered quality gates, damage-control recovery, and auditable captain's logs across single-session, subagents, and agent-team modes |
 | [loki-mode](https://github.com/asklokesh/claudeskill-loki-mode) | Multi-agent autonomous startup system |
 
 ### Integrations & APIs
